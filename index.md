@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Damon Bond - Data Analyst Portfolio
+title: Hi, I'm Damon.
+subtitle: I'm an aspiring Data Analyst who gleans decisions from data.
 ---
