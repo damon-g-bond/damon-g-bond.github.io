@@ -1,0 +1,5 @@
+title: Damon Bond Portfolio
+description: Hello, my name is Damon Bond. Welcome to my portfolio.
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+plugins:
+ - jekyll-remote-theme
