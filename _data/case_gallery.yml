@@ -1,6 +1,6 @@
 - images:
     - link: /img/sales-transactions-dashboard.png
-      large_link: /img/sales-transactions-dashboard-2022-2025.pdf
+      large_link: /img/sales-transactions-dashboard.png
       alt: An image of Case One Dashboard
       description: |-
         ### Case Study 1
@@ -14,4 +14,4 @@
         * Cleaning data
         * Visualizing data
         * Creating data stories to inform decision making
-      ratio: is-4by3
+      ratio: is-4by5
