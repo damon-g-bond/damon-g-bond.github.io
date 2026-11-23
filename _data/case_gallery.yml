@@ -1,0 +1,19 @@
+- title: Case Gallery
+  images:
+   - link: /img/sales-transactions-dashboard-2022-2025.pdf
+     large_link: /img/sales-transactions-dashboard-2022-2025.pdf
+     alt: An image of Case One Dashboard
+     description: |-
+       ### Case Study 1
+
+       A case study that analyzes profit and revenue trends from a synthetic retail sales dataset (2022-2025).
+
+       Key Skills Improved:
+
+       * Refining business questions
+       * Extracting meaningful data
+       * Cleaning data
+       * Visualizing data
+       * Creating data atories to inform decision making
+      ratio: is-4by3
+   
