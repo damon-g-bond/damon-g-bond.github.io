@@ -9,7 +9,7 @@ toc: true
 
 ## Background and Business Questions
 
-This analysis looks into a synthetic sales transaction dataset to uncover answers behind common yet practical business questions. In this project, my general process involves exploring the data briefly in Excel, cleaning said data using SQL, creating a visualization, and an evidence-backed case for my final suggestions moving forward.
+This analysis looks into a synthetic sales transaction dataset to uncover answers behind common yet practical business questions. In this project, my general process involves exploring the data briefly in Excel, cleaning said data using SQL, creating a visualization, and an evidence-backed report for my final suggestions moving forward.
 
 ---
 
