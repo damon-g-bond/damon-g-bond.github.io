@@ -37,7 +37,7 @@ To stay on track while wearing both client and developer hats, I've settled on k
 
 <a href="/assets/sales-transactions-dashboard-2022-2025.zip" download="sales-transactions-dashboard-2022-2025.zip" class="button is-primary is-rounded">Download Report</a>
 
-![Case 1 dashboard clicking through 4 slicers](assets/slicers.gif)
+![Case 1 dashboard clicking through 4 slicers](assets/dashboard-slicers.gif)
 
 ### Findings
 
