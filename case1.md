@@ -11,6 +11,14 @@ toc: true
 
 This analysis looks into a synthetic sales transaction dataset to uncover answers behind common yet practical business questions. In this project, my general process involves exploring the data briefly in Excel, cleaning said data using SQL, creating a visualization, and an evidence-backed report for my final suggestions moving forward.
 
+### Business Questions
+
+* Primary Question: Are we hitting our expected revenue target?
+* What is our revenue trend over the past year? Profit? Where are the monthly inflection points?
+* Which products/categories generate the highest profit?
+* How are our total sales spread across our pricing tiers?
+* Which countries are generating the most revenue/profit? The least?
+
 ---
 
 ## Key Outcomes
@@ -28,6 +36,10 @@ To stay on track while wearing both client and developer hats, I've settled on k
 ![Image of Case 1 Dashboard](/img/sales-transactions-dashboard.png)
 
 <a href="/assets/sales-transactions-dashboard-2022-2025.zip" download="sales-transactions-dashboard-2022-2025.zip" class="button is-primary is-rounded">Download Report</a>
+
+![Case 1 dashboard clicking through 4 slicers](assets/slicers.gif)
+
+### Findings
 
 ---
 
