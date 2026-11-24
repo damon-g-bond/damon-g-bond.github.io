@@ -11,6 +11,8 @@ toc: true
 
 This analysis looks into a synthetic sales transaction dataset to uncover answers behind common yet practical business questions. In this project, my general process involves exploring the data briefly in Excel, cleaning said data using SQL, creating a visualization, and an evidence-backed case for my final suggestions moving forward.
 
+---
+
 ## Key Outcomes
 
 To stay on track while wearing both client and developer hats, I've settled on key project outcomes:
@@ -19,9 +21,15 @@ To stay on track while wearing both client and developer hats, I've settled on k
 * Improve listed key skills
 * Build on business intelligence terminology and data extraction concepts
 
+---
+
 ## Dashboard and Findings
 
 ![Image of Case 1 Dashboard](/img/sales-transactions-dashboard.png)
+
+<a href="/assets/sales-transactions-dashboard-2022-2025" download="sales-transactions-dashboard-2022-2025" class="button is-primary is-rounded">Download Report</a>
+
+---
 
 ## Key Skills Improved
 
