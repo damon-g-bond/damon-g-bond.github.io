@@ -27,7 +27,7 @@ To stay on track while wearing both client and developer hats, I've settled on k
 
 ![Image of Case 1 Dashboard](/img/sales-transactions-dashboard.png)
 
-<a href="/assets/sales-transactions-dashboard-2022-2025.pbix" download="sales-transactions-dashboard-2022-2025" class="button is-primary is-rounded">Download Report</a>
+<a href="/assets/sales-transactions-dashboard-2022-2025.zip" download="sales-transactions-dashboard-2022-2025.zip" class="button is-primary is-rounded">Download Report</a>
 
 ---
 
