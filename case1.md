@@ -76,7 +76,12 @@ to their usual purchases.
 Finally turning attention to our **revenue and profit trends during 2025**, The highest **revenue** was seen in December at $269,347.80 while the highest
 **profit** was seen in October at $52,855.40. Notably despite December's high revenue, profit ($34,430.80) was considerably low compared to off-season months. I suggest investigating common culprits, weighing options, and reaching a compromise. After further investigation, consider reducing discount rates, seasonal staffing, ad spending, or low spend item focus based on findings.   
 
-### Limitations, Areas for Improvement, and Reflection
+### Areas for Improvement and Reflection
+
+As with any project endeavor, there are things I'd like to improve on and explore:
+
+* More varied and targeted SQL queries (CTEs, Window functions, more optimized querying)
+* More in-depth suggestions
 
 ---
 
