@@ -13,7 +13,7 @@ This analysis looks into a synthetic sales transaction dataset to uncover answer
 
 ### Business Questions
 
-* Primary Question: Are we hitting our expected revenue target?
+* Primary Question: Are we hitting our expected revenue/profit target?
 * What is our revenue trend over the past year? Profit? Where are the monthly inflection points?
 * Which products/categories generate the highest profit?
 * How are our total sales spread across our pricing tiers?
@@ -40,6 +40,35 @@ To stay on track while wearing both client and developer hats, I've settled on k
 ![Case 1 dashboard clicking through 4 slicers](assets/dashboard-slicers.gif)
 
 ### Findings
+
+Revenue and profit targets were decided based on a YoY (year-over-year) growth target. Every year
+following year one has a target of the previous year's revenue/profit plus a 10% growth rate:
+
+| Year | Previous Year's Revenue & Profit | Target                                  | 
+| ---- | -------------------------------- | --------------------------------------- |
+| 2022 | N/A                              | 95% of Year One's R/P: $1.91M, $386.25k |
+| 2023 | $2.01M, $406.58K                 | $2.21M, $447.24K                        |
+| 2024 | $2.02M, $401.26K                 | $2.22M, $441.39K                        |
+| 2025 | $1.9M, $382.80K                  | $1.31M, $421.08K                        |
+
+Knowing this, **are we hitting our expected revenue/profit target?** Years 2022 and 2025 exceeded expectations while
+the years of 2023 and 2024 underperformed. The margin between 2024's performance and target expectations is substantially larger than 2023's margin.
+Notably, 2025's revenue and profit exceed the targets of both 2024 and 2023. There may be a change in operations that correlates to this.
+
+| Year | Total Revenue & Gross Profit     | Target                                  | 
+| ---- | -------------------------------- | --------------------------------------- |
+| 2022 | $2.01M, $406.58K                 | $1.91M, $386.25k                        |
+| 2023 | $2.02M, $401.26K                 | $2.21M, $447.24K                        |
+| 2024 | $1.9M, $382.80K                  | $2.22M, $441.39K                        |
+| 2025 | $2.30, $454.80K                  | $1.31M, $421.08K                        |
+
+**Electronics and furniture** consistently generate the most profit amongst the categories. Knowing this, we should consider:
+
+* Further investigate customer demographics within these categories 
+* Put more marketing focus on these drivers
+* Add savings bundles with our lower profit category items (e.g., furniture & appliance discount bundles)
+
+### Limitations, Areas for Improvement, and Reflection
 
 ---
 
