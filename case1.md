@@ -17,6 +17,7 @@ This analysis looks into a synthetic sales transaction dataset to uncover answer
 * Which products/categories generate the highest profit?
 * How are our total sales spread across our pricing tiers?
 * What is our revenue trend over the past year (2025)? Profit? Where are the monthly inflection points?
+  
 ---
 
 ## Key Outcomes
